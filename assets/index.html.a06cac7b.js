@@ -1,0 +1,1 @@
+const e={key:"v-0ad5e31d",path:"/react/router/",title:"Router",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653557971e3},filePathRelative:"react/router/README.md"};export{e as data};

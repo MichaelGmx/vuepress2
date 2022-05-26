@@ -1,0 +1,1 @@
+const t={key:"v-66b0b2c1",path:"/react/prop-types.html",title:"Prop-Types",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653557971e3},filePathRelative:"react/prop-types.md"};export{t as data};
